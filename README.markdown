@@ -1,6 +1,3 @@
-# http://michaelmonteleone.net
-
-This is the raw text source of my jekyll-based personal site, [http://michaelmonteleone.net](http://michaelmonteleone.net).  
 
 It can be "compiled" with the following Rake tasks
 
