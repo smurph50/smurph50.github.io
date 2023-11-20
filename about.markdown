@@ -1,3 +1,9 @@
+---
+title: About
+tags:  []
+layout: about
+---
+
 ### bio
 
 I'm Sean Murphy, a postdoc working in cell engineering using data science and bioinformatics. I grew up in Seattle and moved to Baltimore for graduate school. 
