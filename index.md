@@ -2,7 +2,6 @@
 layout: about
 ---
 
-# Sean Murphy
 
 I’m a postdoc working in cell engineering using data science and bioinformatics. I work at Johns Hopkins University in the lab of Chulan Kwon. 
 
