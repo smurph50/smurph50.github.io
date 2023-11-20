@@ -1,25 +1,16 @@
-title: Michael Monteleone
-url: http://michaelmonteleone.net
-description: 'Personal site of Michael Monteleone, software developer and designer from New Orleans'
+title: Sean Murphy
+url: http://smurph50.github.io
+description: ''
 keywords:
- - Michael Monteleone
- - Mike Monteleone
- - namelessmike
+ - Sean Murphy
 
 author:
     name: Michael Monteleone
-    email: michael@michaelmonteleone.net
-    twitter: http://twitter.com/namelessmike
-    github: http://github.com/mmonteleone
-    delicious: http://delicious.com/namelessmike
-    pinboard: http://pinboard.in/u:namelessmike
-    googleplus: http://plus.google.com/100369739207842495161
-    facebook: http://www.facebook.com/michael.monteleone
-    linkedin: http://www.linkedin.com/in/michaelmonteleone/
-    avatar: http://www.gravatar.com/avatar/392da320b3aa4068d0b03024135875fb?s=70
-    openid:
-        server: https://www.google.com/accounts/o8/ud
-        delegate: http://www.google.com/profiles/namelessmike
+    twitter: http://twitter.com/seanmurphy50
+    github: http://github.com/smurph50
+    googlescholar: https://scholar.google.com/citations?user=rLXhYXEAAAAJ&hl=en
+    linkedin: https://www.linkedin.com/in/sean-murphy50/
+
     
 sections:
  - projects
