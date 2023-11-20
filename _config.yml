@@ -1,5 +1,5 @@
 title: Sean Murphy
-url: http://michaelmonteleone.net
+url: smurph50.github.io
 description: 'personal page'
 keywords:
  - Sean Murphy
@@ -36,4 +36,5 @@ permalink: pretty
 exclude:
  - Rakefile
  - README.markdown
+ - README.md
  - .git
