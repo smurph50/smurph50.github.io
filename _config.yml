@@ -1,6 +1,6 @@
 title: Sean Murphy
-url: http://smurph50.github.io
-description: ''
+url: smurph50.github.io
+description: 'personal page'
 keywords:
  - Sean Murphy
 
@@ -9,7 +9,6 @@ author:
     twitter: http://twitter.com/seanmurphy50
     github: http://github.com/smurph50
     linkedin: https://www.linkedin.com/in/sean-murphy50/
-
     
 sections:
  - projects
