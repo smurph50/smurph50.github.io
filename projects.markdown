@@ -12,7 +12,7 @@ bodyclass: projects
 
 ### In development
 
-* [DeLorean]([http://github.com/mmonteleone/DeLorean)](http://github.com/smurph50) <span>Flux capacitor for accurately faking time-bound JavaScript for testing purposes, including complex interactions of timeouts, intervals, and dates.</span>
+* [DeLorean](http://github.com/smurph50) <span>Flux capacitor for accurately faking time-bound JavaScript for testing purposes, including complex interactions of timeouts, intervals, and dates.</span>
 * [Pavlov]([http://github.com/mmonteleone/pavlov](http://github.com/smurph50)) <span>Rich, Behavioral, API over QUnit</span>
 
 ### Outside of lab
