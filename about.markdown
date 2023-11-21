@@ -22,6 +22,6 @@ I have volunteered with Thread and Book Thing. I previously coached the JHU Ulti
 
 **in the summer:** outdoors/hiking, soccer, ultimate, golf, disc golf
 
-**at home:** board games, books, Liverpool FC
+**at home:** board games, books, Liverpool FC, landscape design
 
 
