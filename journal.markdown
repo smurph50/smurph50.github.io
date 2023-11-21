@@ -4,7 +4,6 @@ layout: index
 bodyclass: journal
 ---
 
-*Tech, mainly.  [Subscribe](/feed.xml).*
 
 <ul class="archive">
 {% for post in site.posts %}
