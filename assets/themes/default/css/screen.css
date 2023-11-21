@@ -310,7 +310,7 @@ nav#main_nav {
     #content article ul,
     #content article ol 
         {
-		font-family: times, 'Times New Roman', times-roman, serif;
+		font-family: 'DroidSansMonoRegular', monospace;
         font-size: 14pt;
 		line-height: 1.5em;
 		text-align: justify;
