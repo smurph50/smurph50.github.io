@@ -1,35 +1,35 @@
 ---
-title: Hello, World.
+title: Fighting the climate crisis - what can I do?
 tags:  []
 layout: post
 description: 
 ---
 
-When I was younger, I considered myself a musician.  As a real musician, I owned a collection of instruments, amplifiers, and cables.  As a real musician, I wrote songs, played with groups, and tossed around words like "gig" *without* irony.  I was so pretentious that I feared not being able to continue writing simply from running out of notes.  "There can only be so many combinations of chords and rhythms, right?"  But I grew older, played less, and listened more.  And I became aware of how little I really knew.  *"Musician?"*  Now just an embarrassing self-title.  
+Recycling your cans won't stop the climate crisis. It is clear that corporations as its more profitable to pollute. The only option is governmental action. Oil companies have shown that they will not change on their own. 
 
-In Wikipedia's overview of the [Dunning-Kruger effect](http://en.wikipedia.org/wiki/Dunning–Kruger_effect), Bertrand Russel is quoted:
+The problem is that the politicians are bought and controlled through campaign donations from large corporations. 
 
-> In the modern world the stupid are cocksure while the intelligent are full of doubt.
+### How do I get Congress to do anything? 
 
-So, it's 2010.  And I am starting a blog.  
+The majority of politicians are focused getting re-elected. One vote can't change that, but voting blocks can. Find and support candidates that prioritize legislation to address greenhouse gas production.
 
-Though it may be ten years and [two versions](http://en.wikipedia.org/wiki/Web_2.0) of the Web late, hopefully this delayed entrance will yield an otherwise lacking acute self-awareness of just how unnecessary Yet Another Blog is.  After all, there can only be so many combinations of words, right?
+### What do you do? 
 
-### Who are you?
+- Switch your utilities to Wind Power if you live in a coal or natural gas powered region
+- Talk to your congresspeople
+- Join climate action movements
+- Recycle, reuse, and reduce consumption
+- Avoid red meat and animal products
+- Take public transportation and trains when possible
 
-The [about](/about/) page has that.
+### What are you going to do?
 
-### What can I expect?
+- Switch to an electric vehicle
+- Start a voting block
 
-Mostly technical topics centered on programming concerns as well as design and usability.  I plan to share and discuss code, critique my own and others' work, and make an honest attempt to avoid being just another echo in the techno-blogo-chamber.
+### Its hopeless
 
-### Will it be worth my time?
-
-What a rude, but honest, question.  It may not be at first, but with practice and patience, who knows?
-
-### How often will you post?
-
-I make no promises.
+Never give up!
 
 ### Well then
 
