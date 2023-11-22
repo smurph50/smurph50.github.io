@@ -6,16 +6,16 @@ bodyclass: projects
 
 ### Finished
 
-* [Time series gene expression of maturation]([http://github.com/mmonteleone/DynamicBuilder](http://github.com/smurph50)) <span>Suspiciously pleasant XML construction API for C# 4, inspired by Ruby's Builder</span>
-* [Comparing maturation of different organs]([http://github.com/mmonteleone/nate](http://github.com/smurph50))  <span>Simple little fluent state machine for C# that doesn't have its way with your architecture.</span>
-* [ArgumentReflector]([http://github.com/mmonteleone/ArgumentReflector](http://github.com/smurph50))  <span>Spoonful of syntactic C# 3.0 sugar for accepting named, optional, method parameters via anonymous objects.</span>
+* [Time series gene expression of maturation](http://github.com/smurph50)) <span>Single cell RNA-seq reconstruction in postnatal maturation of heart cells to develop methods of promoting maturation in vitro.</span>
+* [Comparing maturation of different organs](http://github.com/smurph50))  <span>Global comparison of gene expression trends in different tissue types.</span>
+* [Multiomics selection of cell therapy subpopulation](http://github.com/smurph50))  <span>Use single cell to identify strategies to purify safe cell types.</span>
 
 ### In development
 
-* [DeLorean](http://github.com/smurph50) <span>Flux capacitor for accurately faking time-bound JavaScript for testing purposes, including complex interactions of timeouts, intervals, and dates.</span>
-* [Pavlov]([http://github.com/mmonteleone/pavlov](http://github.com/smurph50)) <span>Rich, Behavioral, API over QUnit</span>
+* [Chromatin regulators in multiple models of reprogramming](http://github.com/smurph50) <span>Using CUT&RUN with ATAC-seq to characterize mechanisms of transdifferentiation.</span>
+* [Splicing in heart failure](http://github.com/smurph50)) <span>Tracking alternative splicing from spliceosome component in the heart.</span>
 
 ### Outside of lab
 
 * [Brake lights](http://github.com/smurph50) <span>Using python to model traffic to asnwer the question: how can drivers reduce traffic?</span>
-* [Score more]([http://github.com/mmonteleone/monokai-vs](http://github.com/smurph50)) <span>UMAP clustering players to find the next best soccer stars</span>
+* [Score more](http://github.com/smurph50) <span>UMAP clustering players to find the next best soccer stars.</span>
