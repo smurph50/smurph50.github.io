@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Sean Murphy
+title: Sean A. Murphy
 ---
 
 
