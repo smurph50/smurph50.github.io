@@ -30,13 +30,13 @@ A bioinformatics pipeline is a series of software algorithms that converts your 
 
 raw data: ATGGCCTCTGATAGTC
 
->> find out where it matches in the genome
+> find out where it matches in the genome
 
 {% highlight bash %}
 bowtie2 -x genome -1 /PATH/to/reads/reads_1.fq -2 /PATH/to/reads/reads_2.fq -S output.sam
 {% endhighlight %}
 
->> count the number of reads in each gene
+> count the number of reads in each gene
 
 {% highlight bash %}
 featureCounts -T 5 -t exon -g gene_id -a annotation.gtf -o counts.txt output.sam
