@@ -5,13 +5,15 @@ layout: post
 description: 
 ---
 
-Recycling your cans won't stop the climate crisis. It is clear that corporations as its more profitable to pollute. The only option is governmental action. Oil companies have shown that they will not change on their own. 
+Recycling your cans won't stop the climate crisis alone. It is clear that corporations are the main culprit as its more profitable to pollute. Corporations under capitalism are designed to do one thing only: make money. They have no responsibility to their employees, customers, or the planet. The only option is governmental action. Oil companies have shown that they will not change on their own. 
 
-The problem is that the politicians are bought and controlled through campaign donations from large corporations. 
+While everyone has begun to feel the effects of the climate crisis, politicians refuse to bring about change becuse they are bought and controlled through campaign donations from large corporations. 
 
 ### How do I get Congress to do anything? 
 
-The majority of politicians are focused getting re-elected. One vote can't change that, but voting blocks can. Find and support candidates that prioritize legislation to address greenhouse gas production.
+The majority of politicians are focused getting re-elected. One vote can't change that, but voting blocks can. When united, even a small group such as the NRA can be extremely powerful. 
+
+Find and support candidates that prioritize legislation to address greenhouse gas production.
 
 ### What do you do? 
 
