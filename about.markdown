@@ -6,7 +6,7 @@ layout: about
 
 ### bio
 
-I'm Sean, a postdoc in the Chulan Kwon Lab in the Institue for Cell Engineering and School of Medicine. Previously, I completed my Ph.D. in Biomedical Engineering at Johns Hopkins University where I worked on engineering mature stem cell-derived cardiomyocytes in vitro by studying dynamic molecular pathways in postnatal mouse heart development. I grew up in Seattle and went to the University of Washington and left with a BS Bioengineering and BA Economics with a minor in Applied Mathematics. At that time, I worked in the lab of Michael Laflamme, which focused on cell therapy for heart disease. 
+I'm Sean, a postdoc in the Chulan Kwon Lab in the Institue for Cell Engineering and School of Medicine. Previously, I completed my Ph.D. in Biomedical Engineering at Johns Hopkins University where I worked on engineering mature stem cell-derived cardiomyocytes in vitro by studying dynamic molecular pathways in postnatal mouse heart development. I grew up in the Seattle area and went to the University of Washington. I left with a BS Bioengineering and BA Economics with a minor in Applied Mathematics. At that time, I worked in the lab of Michael Laflamme, which focused on cell therapy for heart disease. 
 
 ### mission
 
