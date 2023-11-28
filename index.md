@@ -1,10 +1,10 @@
 ---
 layout: about
-title: Sean A. Murphy
+title: Sean Murphy
 ---
 
 
-I’m a postdoc working in cell engineering using data science and bioinformatics. I use a mix of computational and wet lab experiments to answer scientific questions. My projects include both moonshots and very specific basic science questions. 
+I’m a postdoc working in cell engineering using data science and bioinformatics. I use a mix of computational and wet lab experiments to answer scientific questions. My projects vary from broad moonshots and to very specific basic science. 
 
 My research interests: 
 - Prevention of heart failure by making cardiomyocytes ischemia-proof
