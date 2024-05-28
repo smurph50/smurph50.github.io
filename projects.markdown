@@ -6,7 +6,7 @@ bodyclass: projects
 
 ### Finished
 
-* [Time series gene expression of maturation](http://github.com/smurph50) <span>Single cell RNA-seq reconstruction in postnatal maturation of heart cells to develop methods of promoting maturation in vitro.</span>
+* [Time series gene expression of maturation](http://github.com/smurph50/cardiomyocyte-maturation-scRNAseq) <span>Single cell RNA-seq reconstruction in postnatal maturation of heart cells to develop methods of promoting maturation in vitro.</span>
 * [Comparing maturation of different organs](http://github.com/smurph50)  <span>Global comparison of gene expression trends in different tissue types.</span>
 * [Multiomics selection of cell therapy subpopulation](http://github.com/smurph50)  <span>Use single cell to identify strategies to purify safe cell types.</span>
 
@@ -17,5 +17,5 @@ bodyclass: projects
 
 ### Outside of lab
 
-* [Brake lights](http://github.com/smurph50) <span>Using python to model traffic to answer the question: how can drivers reduce traffic?</span>
-* [Score more](http://github.com/smurph50) <span>UMAP clustering players to find the next best soccer stars.</span>
+* [Brake lights](http://github.com/smurph50/brakelights) <span>Using python to model traffic to answer the question: how can drivers reduce traffic?</span>
+* [Score more](http://github.com/smurph50/scoremore) <span>UMAP clustering players to find the next best soccer stars.</span>
