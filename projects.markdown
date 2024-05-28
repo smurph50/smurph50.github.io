@@ -17,5 +17,5 @@ bodyclass: projects
 
 ### Outside of lab
 
-* [Brake lights](http://github.com/smurph50) <span>Using python to model traffic to asnwer the question: how can drivers reduce traffic?</span>
+* [Brake lights](http://github.com/smurph50) <span>Using python to model traffic to answer the question: how can drivers reduce traffic?</span>
 * [Score more](http://github.com/smurph50) <span>UMAP clustering players to find the next best soccer stars.</span>
